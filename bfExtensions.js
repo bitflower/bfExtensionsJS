@@ -38,3 +38,8 @@ if (typeof String.prototype.endsWith !== 'function') {
         return this.indexOf(suffix, this.length - suffix.length) !== -1;
     };
 }
+
+/* NUMBER: isNumber */
+function isNumber(n) {
+    return !isNaN(parseFloat(n)) && isFinite(n);
+}
