@@ -1,6 +1,6 @@
 /**
  * bitflower: jQuery Extensions
- * Version: 1.2
+ * Version: 1.1
  * Author: Matthias Max
  * Copyright bitflower 2014
  */
